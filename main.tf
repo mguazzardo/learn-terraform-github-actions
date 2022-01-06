@@ -15,7 +15,7 @@ terraform {
     organization = "balinux"
 
     workspaces {
-      name = "demo-github-actions"
+      name = "demo-github-actions2222"
     }
   }
 }
